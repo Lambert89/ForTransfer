@@ -1,6 +1,3 @@
 # ForTransfer
 
-ns-19.awsdns-02.com. 
-ns-1810.awsdns-34.co.uk. 
-ns-1505.awsdns-60.org. 
-ns-871.awsdns-44.net.
+ns-711.awsdns-24.net. ns-1533.awsdns-63.org. ns-382.awsdns-47.com. ns-2041.awsdns-63.co.uk.
